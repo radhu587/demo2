@@ -1,0 +1,45 @@
+h1{
+    display:block;
+    position:relative;
+    background: rgba(0,0,0,0.7);
+    max-width:100%;
+    color:white;
+    padding:2%;
+    text-align:center;
+    letter-spacing:4px;
+}
+.box{
+    display:block;
+    position:relative;
+    padding:2%;
+    margin-top:-22px;
+    border: 1px solid black;
+    text-align:center;
+}
+h2{
+    display:block;
+    position:relative;
+    font-family:"courier";
+    letter-spacing:5px;
+  
+}
+button{
+    display:block;
+    position:relative;
+    background: rgba(0,0,0,0.7);
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border:none;
+    left:47%;
+    font-size:20px;
+    border: 1px solid white;
+    border-radius:5px;
+    color:white;
+}
+button:hover{
+    border: 1px solid black;
+    background:transparent;
+    color:black;
+}
